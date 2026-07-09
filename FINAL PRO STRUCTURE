@@ -1,0 +1,15 @@
+used-bike-price-prediction/
+│
+├── bike_price_model.py
+├── app.py                  🔥
+├── bike_price_model.ipynb 🔥
+├── model.pkl              🔥
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+├── sample_input_output.txt
+│
+├── images/
+│   ├── model_comparison.png
+│   └── feature_importance.png
